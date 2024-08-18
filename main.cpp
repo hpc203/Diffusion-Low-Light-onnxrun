@@ -117,7 +117,7 @@ int main()
 
     // namedWindow("srcimg", WINDOW_NORMAL);
 	// imshow("srcimg", srcimg);
-	// static const string kWinName = "Deep learning use OpenCV";
+	// static const string kWinName = "Deep learning use onnxruntime";
 	// namedWindow(kWinName, WINDOW_NORMAL);
 	// imshow(kWinName, dstimg);
 	// waitKey(0);
